@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithuLagos</string>
+    <string name="profile_pix">Profile picture of developer</string>
+    <string name="detail">GITHUB DETAILS</string>
+
+    <string name="users">User:</string>
+    <string name="profile_url">Link:</string>
+</resources>
